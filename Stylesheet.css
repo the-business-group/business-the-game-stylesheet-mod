@@ -1,0 +1,15 @@
+/**
+{
+	"name": "Defaults",
+	"description": "This is a baseline stylesheet to make business-the-game usable.\nIt may not be pretty, but it is functional.",
+	"imageUrl": "",
+	"public": true,
+	"using": []
+}
+**/
+#SurfaceType-GROUND{
+	background-color: #00ff00;
+}
+#SurfaceType-WATER{
+	background-color: blue;
+}
