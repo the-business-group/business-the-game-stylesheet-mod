@@ -11,5 +11,14 @@
 	background-color: #00ff00;
 }
 #SurfaceType-WATER{
-	background-color: blue;
+	background-color: #0a3264;
+}
+#SurfaceType-SNOW{
+	background-color: white;
+}
+#SurfaceType-STEEP_MOUINTIN{
+	background-color: #ff6400;
+}
+#SurfaceType-ROUGTH_TERRAIN{
+	background-color: #646400;
 }
