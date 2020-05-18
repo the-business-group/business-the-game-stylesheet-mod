@@ -7,6 +7,11 @@
 	"using": []
 }
 **/
+#CellText{
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
 #SurfaceType-GROUND{
 	background-color: #00ff00;
 }
@@ -21,4 +26,7 @@
 }
 #SurfaceType-ROUGTH_TERRAIN{
 	background-color: #646400;
+}
+#SettlementSize-img-VILLAGE{
+	src: url('https://image.flaticon.com/icons/svg/185/185306.svg');
 }
