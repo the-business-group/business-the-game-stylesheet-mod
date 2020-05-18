@@ -28,5 +28,5 @@
 	background-color: #646400;
 }
 #SettlementSize-img-VILLAGE{
-	src: url('https://image.flaticon.com/icons/svg/185/185306.svg');
+	--src: https://image.flaticon.com/icons/svg/185/185306.svg;
 }
